@@ -1,0 +1,233 @@
+[
+  {
+    " id ": 1,
+    " nombre ": " Leanne Graham ",
+    " nombre de usuario ": " Bret ",
+    " email ": " Sincere@april.biz ",
+    " dirección ": {
+      " street ": " Kulas Light ",
+      " suite ": " Apto. 556 ",
+      " ciudad ": " Gwenborough ",
+      " código postal ": " 92998-3874 ",
+      " geo ": {
+        " lat ": " -37.3159 ",
+        " lng ": " 81.1496 "
+      }
+    },
+    " teléfono ": " 1-770-736-8031 x56442 ",
+    " sitio web ": " hildegard.org ",
+    " empresa ": {
+      " nombre ": " Romaguera-Crona ",
+      " catchPhrase ": " Red neuronal cliente-servidor de varias capas ",
+      " bs ": " aprovechar los mercados electrónicos en tiempo real "
+    }
+  },
+  
+  {
+    " id ": 2,
+    " nombre ": " Ervin Howell ",
+    " nombre de usuario ": " Antonette ",
+    " correo electrónico ": " Shanna@melissa.tv ",
+    " dirección ": {
+      " calle ": " Victor Plains ",
+      " suite ": " Suite 879 ",
+      " ciudad ": " Wisokyburgh ",
+      " código postal ": " 90566-7771 ",
+      " geo ": {
+        " lat ": " -43.9509 ",
+        " lng ": " -34.4618 "
+      }
+    },
+    " teléfono ": " 010-692-6593 x09125 ",
+    " sitio web ": " anastasia.net ",
+    " empresa ": {
+      " nombre ": " Deckow-Crist ",
+      " catchPhrase ": " Contingencia didáctica proactiva ",
+      " bs ": " sinergizar cadenas de suministro escalables "
+    }
+  },
+  {
+    " id ": 3,
+    " nombre ": " Clementine Bauch ",
+    " nombre de usuario ": " Samantha ",
+    " correo electrónico ": " Nathan@yesenia.net ",
+    " dirección ": {
+      " street ": " Extensión de Douglas ",
+      " suite ": " Suite 847 ",
+      " ciudad ": " McKenziehaven ",
+      " código postal ": " 59590-4157 ",
+      " geo ": {
+        " lat ": " -68.6102 ",
+        " lng ": " -47.0653 "
+      }
+    },
+    " teléfono ": " 1-463-123-4447 ",
+    " sitio web ": " ramiro.info ",
+    " empresa ": {
+      " nombre ": " Romaguera-Jacobson ",
+      " catchPhrase ": " Interfaz bifurcada cara a cara ",
+      " bs ": " habilitación electrónica de aplicaciones estratégicas "
+    }
+  },
+  {
+    " id ": 4,
+    " nombre ": " Patricia Lebsack ",
+    " nombre de usuario ": " Karianne ",
+    " correo electrónico ": " Julianne.OConner@kory.org ",
+    " dirección ": {
+      " calle ": " Hoeger Mall ",
+      " suite ": " Apto. 692 ",
+      " ciudad ": " Sur de Elvis ",
+      " código postal ": " 53919-4257 ",
+      " geo ": {
+        " lat ": " 29.4572 ",
+        " lng ": " -164.2990 "
+      }
+    },
+    " teléfono ": " 493-170-9623 x156 ",
+    " sitio web ": " kale.biz ",
+    " empresa ": {
+      " nombre ": " Robel-Corkery ",
+      " catchPhrase ": " Productividad de tolerancia cero de varios niveles ",
+      " bs ": " transición de servicios web de vanguardia "
+    }
+  },
+  {
+    " id ": 5,
+    " nombre ": " Chelsey Dietrich ",
+    " username ": " Kamren ",
+    " correo electrónico ": " Lucio_Hettinger@annie.ca ",
+    " dirección ": {
+      " street ": " Skiles Walks ",
+      " suite ": " Suite 351 ",
+      " ciudad ": " Roscoeview ",
+      " zipcode ": " 33263 ",
+      " geo ": {
+        " lat ": " -31.8129 ",
+        " lng ": " 62.5342 "
+      }
+    },
+    " teléfono ": "( 254 ) 954-1289 ",
+    " sitio web ": " demarco.info ",
+    " empresa ": {
+      " nombre ": " Keebler LLC ",
+      " catchPhrase ": " Solución tolerante a fallos centrada en el usuario ",
+      " bs ": " revolucionar los sistemas de un extremo a otro "
+    }
+  },
+  {
+    " id ": 6,
+    " nombre ": " Sra. Dennis Schulist ",
+    " username ": " Leopoldo_Corkery ",
+    " correo electrónico ": " Karley_Dach@jasper.info ",
+    " dirección ": {
+      " calle ": " Cruce Norberto ",
+      " suite ": " Apto. 950 ",
+      " ciudad ": " South Christy ",
+      " código postal ": " 23505-1337 ",
+      " geo ": {
+        " lat ": " -71.4197 ",
+        " lng ": " 71.7478 "
+      }
+    },
+    " teléfono ": " 1-477-935-8478 x6430 ",
+    " sitio web ": " ola.org ",
+    " empresa ": {
+      " nombre ": " Considine-Lockman ",
+      " catchPhrase ": " Interfaz de resultados sincronizada ",
+      " bs ": " habilitación electrónica de aplicaciones innovadoras "
+    }
+  },
+  {
+    " id ": 7,
+    " nombre ": " Kurtis Weissnat ",
+    " username ": " Elwyn.Skiles ",
+    " email ": " Telly.Hoeger@billy.biz ",
+    " dirección ": {
+      " street ": " Rex Trail ",
+      " suite ": " Suite 280 ",
+      " ciudad ": " Howemouth ",
+      " Código postal ": " 58804-1099 ",
+      " geo ": {
+        " lat ": " 24.8918 ",
+        " lng ": " 21.8984 "
+      }
+    },
+    " teléfono ": " 210.067.6132 ",
+    " sitio web ": " elvis.io ",
+    " empresa ": {
+      " nombre ": " Grupo Johns ",
+      " Eslogan ": " multimedia configurable grupo de trabajo ",
+      " bs ": " generar minoristas electrónicos empresariales "
+    }
+  },
+  {
+    " id ": 8,
+    " nombre ": " Nicholas Runolfsdottir V ",
+    " nombre de usuario ": " Maxime_Nienow ",
+    " correo electrónico ": " Sherwood@rosamond.me ",
+    " dirección ": {
+      " calle ": " Cumbre de Ellsworth ",
+      " suite ": " Suite 729 ",
+      " ciudad ": " Aliyaview ",
+      " Código postal ": " 45169 ",
+      " geo ": {
+        " lat ": " -14.3990 ",
+        " lng ": " -120.7677 "
+      }
+    },
+    " teléfono ": " 586.493.6943 x140 ",
+    " sitio web ": " jacynthe.com ",
+    " empresa ": {
+      " nombre ": " Grupo Abernathy ",
+      " catchPhrase ": " Concepto secundario implementado ",
+      " bs ": " e-enable extensible e-tailers "
+    }
+  },
+  {
+    " id ": 9,
+    " nombre ": " Glenna Reichert ",
+    " nombre de usuario ": " Delphine ",
+    " correo electrónico ": " Chaim_McDermott@dana.io ",
+    " dirección ": {
+      " street ": " Dayna Park ",
+      " suite ": " Suite 449 ",
+      " ciudad ": " Bartholomebury ",
+      " código postal ": " 76495-3109 ",
+      " geo ": {
+        " lat ": " 24.6463 ",
+        " lng ": " -168,8889 "
+      }
+    },
+    " teléfono ": " (775)976-6794 x41206 ",
+    " sitio web ": " conrad.com ",
+    " empresa ": {
+      " name ": " Yost and Sons ",
+      " catchPhrase ": " Proyecto contextual conmutable ",
+      " bs ": " tecnologías agregadas en tiempo real "
+    }
+  },
+  {
+    " id ": 10,
+    " nombre ": " Clementina DuBuque ",
+    " username ": " Moriah.Stanton ",
+    " correo electrónico ": " Rey.Padberg@karina.biz ",
+    " dirección ": {
+      " calle ": " Kattie Turnpike ",
+      " suite ": " Suite 198 ",
+      " ciudad ": " Lebsackbury ",
+      " código postal ": " 31428-2261 ",
+      " geo ": {
+        " lat ": " -38.2386 ",
+        " lng ": " 57.2232 "
+      }
+    },
+    " teléfono ": " 024-648-3804 ",
+    " sitio web ": " ambrose.net ",
+    " empresa ": {
+      " nombre ": " Hoeger LLC ",
+      " Eslogan ": " centralizado potenciar grupo de trabajo ",
+      " bs ": " modelos de destino de un extremo a otro "
+    }
+  }
+]
